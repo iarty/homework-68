@@ -1,0 +1,7 @@
+export const FETCH_TODO_REQUEST = "FETCH_TODO_REQUEST";
+export const FETCH_TODO_SUCCESS = "FETCH_TODO_SUCCESS";
+export const FETCH_TODO_ERROR = "FETCH_TODO_ERROR";
+export const ADD_NEW_TODO = "ADD_NEW_TODO";
+export const CREATE_NEW_TODO = "CREATE_NEW_TODO";
+export const CHANGE_TODO = "CHANGE_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
